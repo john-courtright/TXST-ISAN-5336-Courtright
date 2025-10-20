@@ -8,3 +8,5 @@ Projects are purely for educational purposes. Insights and observations may be i
 Each Assignment folder has a dedicated README with information about that assignment's data sources and the general concepts explored in the assignment.
 
 Assignment 1: Basic SQL; SELECTing from tables, inserting, and deleting records
+
+Assignment 2: Working with Subqueries and CTEs for calculations on rows
